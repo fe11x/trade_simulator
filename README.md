@@ -4,6 +4,8 @@ Trade Simulator is a Python-based Trade Simulation program that is built with Py
 - Simulate auto matching orders in real-time
 - Allow user creating new ask or bid orders to transactions pool
 - Monitor trading state and display as price chart and candilestick chart and volume chart
+### Future Development
+- Add options for setting fear and greed values to simulate retail investor behavior in the real market.
 ## Technologies Used
 - Python
 - tkinter
