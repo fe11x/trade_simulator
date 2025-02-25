@@ -10,3 +10,11 @@ Trade Simulator is a Python-based Trade Simulation program that is built with Py
 - matplotlib
 ## Demo
 https://github.com/user-attachments/assets/2a64b61e-4056-4224-a78a-f9c2bce677c0
+### Display pending orders and latest trading price
+![1](https://github.com/user-attachments/assets/7bed9f8f-4371-44bd-8311-d1d18c296d16)
+### Create ask or bid order
+![1](https://github.com/user-attachments/assets/2c62c3ba-c6c7-4e0a-a647-97b3b2e1e67a)
+### Display real-time price chart
+![1](https://github.com/user-attachments/assets/b335f53f-3fe4-4cc1-b65c-c9e28b5fa99c)
+### Display minute candlestick&volume chart
+![1](https://github.com/user-attachments/assets/eb07766c-b1a7-4a2e-84a4-c3c240e5925e)
